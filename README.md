@@ -12,7 +12,7 @@
 ## Phase0(7月〜8月)
 
 ### 第1週(7/14〜7/20)
-- [ ] Progate Python道場コース着手
+- [x] Progate Python道場コース着手
 - [ ] Git/GitHubの基本操作(add/commit/push)を体で覚える
 - [ ] logs/2026-07.md に日々の記録をつける
 - 学習量: 1日30分・週5日目標
